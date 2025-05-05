@@ -168,4 +168,4 @@ const clickToCall = new ClickToCall({
 
 ## Support
 
-For support, please contact [your-email@example.com] 
+For support, please contact [support@virtuedge.tech] 
